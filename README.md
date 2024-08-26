@@ -1,6 +1,4 @@
-Here's a more personalized and concise version of the README:
 
----
 
 # Dash Finance Tracker
 
